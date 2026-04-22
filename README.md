@@ -1,18 +1,31 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6B-rL6oS)
-# Collaborative Git Workflows
+# Project README
+## Team Roles
 
-| Key              | Value                                                                                                                                                                                                                                                        |
-|:-----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Course Codes** | BBT 4106                                                                                                                                                                                                                     |
-| **Course Names** | BBT 4106: Business Intelligence I (Week 1-3 of 13)                                                                                                                                                                             |
-| **Semester**     | April to July 2026                                                                                                                                                                                                           |
-| **Lecturer**     | Allan Omondi                                                                                                                                                                                                                 |
-| **Contact**      | aomondi@strathmore.edu                                                                                                                                                                                                       |
-| **Note**         | The lecture contains both theory and practice.<br/>This notebook forms part of the practice.<br/>It is intended for educational purpose only.<br/>Recommended citation: [BibTex](https://raw.githubusercontent.com/course-files/Git/refs/heads/main/RecommendedCitation.bib) |
+| Member | Role | Assigned Issues |
+|--------|------|-----------------|
+| Maddox Mark Kibati | Group Leader | Issue #1 – Update project README; Issue #2 – Research on data sources |
+| Justus Kamande | Group Member | Issue #3 – Research on star schema; Issue #4 – Research on ETL/ELT/EtLT |
+| Eddie Wainaina Maina| Group Member | Issue #5 – Research on data governance |
 
-## Lab Manuals
+---
 
-Refer to the files in the order specified below for more details:
+## Project Structure
 
-- [lab_instructions_part1.md](lab_instructions_part1.md)
-- [lab_instructions_part2.md](lab_instructions_part2.md)
+```
+/
+├── README.md                  # Project overview and team roles (Issue #1)
+├── data_source.md             # Review of data sources in a business (Issue #2)
+├── warehouse_schema.md        # Star schema documentation (Issue #3)
+├── data_pipeline.md           # ETL, ELT, and EtLT comparison (Issue #4)
+└── governance.md              # Data governance and PII access (Issue #5)
+```
+
+---
+
+## Milestones
+
+- **50% Complete** – Issues #1, #2, and #3 delivered
+- **75% Complete** – Issue #4 delivered
+- **100% Complete** – Issue #5 delivered
+
+---
