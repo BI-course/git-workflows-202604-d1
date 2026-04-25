@@ -4,8 +4,10 @@
 | Member | Role | Assigned Issues |
 |--------|------|-----------------|
 | Maddox Mark Kibati | Group Leader | Issue #1 – Update project README; Issue #2 – Research on data sources |
-| Justus Kamande | Group Member | Issue #3 – Research on star schema; Issue #4 – Research on ETL/ELT/EtLT |
-| Eddie Wainaina Maina| Group Member | Issue #5 – Research on data governance |
+| Gloria Ndanu| Group Member 2 | Issue #6 – Research the basics of data analytics |
+| Justus Kamande | Group Member 3 | Issue #3 – Research on star schema; Issue #4 – Research on ETL/ELT/EtLT |
+| Tyron Odhiambo | Group Member 4| Issue #5 – Research on data governance |
+| Eddie Wainaina Maina| Group Member 5 | Issue #5 – Research on data governance |
 
 ---
 
