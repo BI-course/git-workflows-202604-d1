@@ -4,7 +4,7 @@ Data governance is the structured, organization-wide practice of managing data a
 
 Data governance has some key components:
 
-- **Data quality management:** Defines accuracy, consistency, and reliability through validation rules and monitoring.
+- **Data quality management:** It defines accuracy, consistency, and reliability through validation rules and monitoring.
 - **Data stewardship:** Assigns accountability for data assets to specific individuals(stewards) who ensure policies are followed.
 - **Data Security and Privacy:** Implements controls (encryption, role-based access) to protect sensitive data and comply with regulations like GDPR and HIPAA.
 - **Metadata management:** Manages information about data (data lineage, definitions, and origins) to make it understandable and traceable.
