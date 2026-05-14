@@ -31,6 +31,8 @@
 - **100% Complete** – Issue #5 delivered
 
 ---
+Project lead: Member 4 — responsible for overall coordination.
+
 
 
 ## small edit on readme for cherry picking 
